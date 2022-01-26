@@ -1,6 +1,7 @@
 # authentication
 
-A new Flutter project.
+This is the authentication project using firebase where we first register using name,email, password and later extract details from firebase and login in our id respectively
+
 
 ## Getting Started
 
